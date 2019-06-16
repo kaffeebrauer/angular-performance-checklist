@@ -522,15 +522,3 @@ Expressions should finish quickly or the user experience may drag, especially on
 **Resources**
 - [quick-execution](https://angular.io/guide/template-syntax#quick-execution) - official documentation for template expressions
 - [Increasing Performance - more than a pipe dream](https://youtu.be/I6ZvpdRM1eQ) - ng-conf video in youtube. Using pipe instead of function in interpolation expression
-
-# Conclusion
-
-The list of practices will dynamically evolve over time with new/updated practices. In case you notice something missing or you think that any of the practices can be improved do not hesitate to fire an issue and/or a PR. For more information please take a look at the "[Contributing](#contributing)" section below.
-
-# Contributing
-
-In case you notice something missing, incomplete or incorrect, a pull request will be greatly appreciated. For discussion of practices which are not included in the document please [open an issue](https://github.com/mgechev/angular2-performance-checklist/issues).
-
-# License
-
-MIT
